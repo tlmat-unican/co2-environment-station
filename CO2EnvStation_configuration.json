@@ -1,0 +1,1 @@
+{"thingspeak": {"channel_id": "***", "mqtt_host": "mqtt3.thingspeak.com", "mqtt_client_id": "***", "mqtt_username": "***", "mqtt_password": "***", "transport_protocol": "websockets", "port": 80}, "sensor": {"timeout_secs": 120, "freq_secs": 20}, "GUI": 1, "run_once": 0, "i2c-bus": 6}
